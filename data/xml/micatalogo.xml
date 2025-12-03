@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Tiene que estar bien hecho porque es un formato organizado que hace que las apps y los sistemas lo puedan entender sin problema.
+Un formato bien hecho se asegura de que el documento siga las reglas básicas, como que las etiquetas se abran y cierren bien,
+que solo haya una etiqueta principal y que todo esté bien ordenado dentro de lo que toca.-->
+
+  <!-- VAMOS A PASAR TODA LA INFORMACIÓN CRUCIAL DE LA PÁGINA HTML A XML-->
+
+<catalogo>
+ <!--EMPEZAMOS CON EL PRIMER PRODUCTO-->
+  <producto id="JordanRetro1">
+    <nombre>Jordan Retro 1</nombre> <!-- NOMBRE DEL PRODUCTO-->
+    <descripcion>Es de la marca Jordan. Es muy exclusiva. Son una edición muy cotizada.</descripcion> <!--DESCRIPCION DEL PRODUCTO-->
+    <categoria>Calzado</categoria> <!--CATEGORÍA DEL PRODUCTO-->
+    <cuantia moneda="EUR">901</cuantia> <!--PRECIO DEL PRODUCTO-->
+    <imagen url="img/jordan1.png" alt="Un par de zapatos increibles para salir a cualquier terreno"/><!--IMAGEN DEL PRODUCTO-->
+    <enlace_compra url="https://stockx.com/air-jordan-1-retro-high-travis-scott"/><!--ENLACE PARA COMPRAR EL PRODUCTO-->
+  </producto>
+ <!--SEGUIMOS CON EL SEGUNDO PRODUCTO-->
+  <producto id="JordanRetro2">
+    <nombre>Jordan Retro 2</nombre><!-- NOMBRE DEL PRODUCTO-->
+    <descripcion>Es de color blanco y azul. Son una edición muy bonita.</descripcion><!--DESCRIPCION DEL PRODUCTO-->
+    <categoria>Calzado</categoria><!--CATEGORÍA DEL PRODUCTO-->
+    <cuantia moneda="EUR">76</cuantia><!--PRECIO DEL PRODUCTO-->
+    <imagen url="img/Jordan2.jpg" alt="Un par de zapatos increibles para salir a cualquier terreno"/><!--IMAGEN DEL PRODUCTO-->
+    <enlace_compra url="https://stockx.com/air-jordan-2-retro-j-balvin-td"/><!--ENLACE PARA COMPRAR EL PRODUCTO-->
+  </producto>
+ <!--SEGUIMOS CON EL TERCER PRODUCTO-->
+  <producto id="JordanRetro3">
+    <nombre>Jordan Retro 3</nombre><!-- NOMBRE DEL PRODUCTO-->
+    <descripcion>Es de color blanco y crema. Son unos zapatos muy cómodos con detalles en cuero.</descripcion><!--DESCRIPCION DEL PRODUCTO-->
+    <categoria>Calzado</categoria><!--CATEGORÍA DEL PRODUCTO-->
+    <cuantia moneda="EUR">122</cuantia><!--PRECIO DEL PRODUCTO-->
+    <imagen url="img/retro 3.png" alt="Un par de zapatos increibles para salir a cualquier terreno"/><!--IMAGEN DEL PRODUCTO-->
+    <enlace_compra url="https://stockx.com/air-jordan-3-retro-pure-money-2025"/><!--ENLACE PARA COMPRAR EL PRODUCTO-->
+  </producto>
+<!--SEGUIMOS CON EL CUARTO PRODUCTO-->
+  <producto id="JordanRetro4">
+    <nombre>Jordan Retro 4</nombre><!-- NOMBRE DEL PRODUCTO-->
+    <descripcion>Es de color blanco y gris. Son una edición muy bonita.</descripcion><!--DESCRIPCION DEL PRODUCTO-->
+    <categoria>Calzado</categoria><!--CATEGORÍA DEL PRODUCTO-->
+    <cuantia moneda="EUR">186</cuantia><!--PRECIO DEL PRODUCTO-->
+    <imagen url="img/Your-Best-Look-Yet-at-the-Remastered-Air-Jordan-4-Retro-in-White-Cement-3.jpg" alt="Un par de zapatos increibles para salir a cualquier terreno"/><!--IMAGEN DEL PRODUCTO-->
+    <enlace_compra url="https://stockx.com/air-jordan-4-retro-white-cement-2025"/><!--ENLACE PARA COMPRAR EL PRODUCTO-->
+  </producto>
+<!--SEGUIMOS CON EL QUINTO PRODUCTO-->
+  <producto id="JordanRetro5">
+    <nombre>Jordan Retro 5</nombre><!-- NOMBRE DEL PRODUCTO-->
+    <descripcion>Es de color negro y gris. Son una edición muy bonita.</descripcion><!--DESCRIPCION DEL PRODUCTO-->
+    <categoria>Calzado</categoria><!--CATEGORÍA DEL PRODUCTO-->
+    <cuantia moneda="EUR">294</cuantia><!--PRECIO DEL PRODUCTO-->
+    <imagen url="img/jordan5.png" alt="Un par de zapatos increibles para salir a cualquier terreno"/><!--IMAGEN DEL PRODUCTO-->
+    <enlace_compra url="https://stockx.com/air-jordan-5-retro-anthracite"/><!--ENLACE PARA COMPRAR EL PRODUCTO-->
+  </producto>
+   <producto id="JordanRetro5">
+    <nombre>Jordan Retro 5</nombre><!-- NOMBRE DEL PRODUCTO-->
+    <descripcion>Es de color negro y gris. Son una edición muy bonita.</descripcion><!--DESCRIPCION DEL PRODUCTO-->
+    <categoria>Calzado</categoria><!--CATEGORÍA DEL PRODUCTO-->
+    <cuantia moneda="EUR">294</cuantia><!--PRECIO DEL PRODUCTO-->
+    <imagen url="img/jordan5.png" alt="Un par de zapatos increibles para salir a cualquier terreno"/><!--IMAGEN DEL PRODUCTO-->
+    <enlace_compra url="https://stockx.com/air-jordan-5-retro-anthracite"/><!--ENLACE PARA COMPRAR EL PRODUCTO-->
+  </producto>
+</catalogo><!--CIERRA EL CATÁLOGO-->
