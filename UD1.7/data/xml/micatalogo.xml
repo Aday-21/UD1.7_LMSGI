@@ -51,12 +51,4 @@ que solo haya una etiqueta principal y que todo esté bien ordenado dentro de lo
     <imagen url="img/jordan5.png" alt="Un par de zapatos increibles para salir a cualquier terreno"/><!--IMAGEN DEL PRODUCTO-->
     <enlace_compra url="https://stockx.com/air-jordan-5-retro-anthracite"/><!--ENLACE PARA COMPRAR EL PRODUCTO-->
   </producto>
-   <producto id="JordanRetro5">
-    <nombre>Jordan Retro 5</nombre><!-- NOMBRE DEL PRODUCTO-->
-    <descripcion>Es de color negro y gris. Son una edición muy bonita.</descripcion><!--DESCRIPCION DEL PRODUCTO-->
-    <categoria>Calzado</categoria><!--CATEGORÍA DEL PRODUCTO-->
-    <cuantia moneda="EUR">294</cuantia><!--PRECIO DEL PRODUCTO-->
-    <imagen url="img/jordan5.png" alt="Un par de zapatos increibles para salir a cualquier terreno"/><!--IMAGEN DEL PRODUCTO-->
-    <enlace_compra url="https://stockx.com/air-jordan-5-retro-anthracite"/><!--ENLACE PARA COMPRAR EL PRODUCTO-->
-  </producto>
 </catalogo><!--CIERRA EL CATÁLOGO-->

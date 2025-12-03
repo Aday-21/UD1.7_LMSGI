@@ -1,0 +1,56 @@
+{
+  "catalogo": {
+    "producto": [
+      {
+        "id": "JordanRetro1",
+        "nombre": "Jordan Retro 1",
+        "descripcion": "Es de la marca Jordan. Es muy exclusiva. Son una edición muy cotizada.",
+        "categoria": "Calzado",
+        "cuantia": 901,
+        "imagen": "img/jordan1.png",
+        "alt": "Un par de zapatos increibles para salir a cualquier terreno",
+        "enlace_compra": "https://stockx.com/air-jordan-1-retro-high-travis-scott"
+      },
+      {
+        "id": "JordanRetro2",
+        "nombre": "Jordan Retro 2",
+        "descripcion": "Es de color blanco y azul. Son una edición muy bonita.",
+        "categoria": "Calzado",
+        "cuantia": 76,
+        "imagen": "img/Jordan2.jpg", 
+        "alt": "Un par de zapatos increibles para salir a cualquier terreno",
+        "enlace_compra": "https://stockx.com/air-jordan-2-retro-j-balvin-td" 
+      },
+      {
+        "id": "JordanRetro3",
+        "nombre": "Jordan Retro 3",
+        "descripcion": "Es de color blanco y crema. Son unos zapatos muy cómodos con detalles en cuero.",
+        "categoria": "Calzado",
+        "cuantia": 122,
+        "imagen": "img/retro 3.png",
+        "alt": "Un par de zapatos increibles para salir a cualquier terreno",
+        "enlace_compra": "https://stockx.com/air-jordan-3-retro-pure-money-2025"
+      },
+      {
+        "id": "JordanRetro4",
+        "nombre": "Jordan Retro 4",
+        "descripcion": "Es de color blanco y gris. Son una edición muy bonita.",
+        "categoria": "Calzado",
+        "cuantia": 186,
+        "imagen": "img/Your-Best-Look-Yet-at-the-Remastered-Air-Jordan-4-Retro-in-White-Cement-3.jpg",
+        "alt": "Un par de zapatos increibles para salir a cualquier terreno",
+        "enlace_compra": "https://stockx.com/air-jordan-4-retro-white-cement-2025"
+      },
+      {
+        "id": "JordanRetro5",
+        "nombre": "Jordan Retro 5",
+        "descripcion": "Es de color negro y gris. Son una edición muy bonita.",
+        "categoria": "Calzado",
+        "cuantia": 294,
+        "imagen": "img/jordan5.png",
+        "alt": "Un par de zapatos increibles para salir a cualquier terreno",
+        "enlace_compra": "https://stockx.com/air-jordan-5-retro-anthracite"
+      }
+    ]
+  }
+}
